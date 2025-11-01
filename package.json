@@ -1,0 +1,12 @@
+{
+  "name": "@raspberry-coffee/customer-360",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node UnifiedCustomerProfile.js",
+    "analyze": "node BehavioralAnalyticsEngine.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}

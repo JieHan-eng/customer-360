@@ -1,0 +1,18 @@
+{
+  "customer_platform": {
+    "name": "Raspberry Customer 360 Platform",
+    "version": "4.0",
+    "capabilities": ["Unified Profiles", "Behavioral Analytics", "AI Recommendations", "Journey Orchestration"]
+  },
+  "data_sources": {
+    "transactional": ["purchases", "returns", "payment_history"],
+    "behavioral": ["web_activity", "mobile_usage", "email_engagement", "social_interactions"],
+    "demographic": ["profile_data", "preferences", "survey_responses"],
+    "external": ["third_party_data", "market_research", "social_media"]
+  },
+  "analytical_approaches": {
+    "identity_resolution": ["deterministic", "probabilistic", "machine_learning"],
+    "segmentation": ["behavioral", "value_based", "needs_based", "predictive"],
+    "propensity_modeling": ["classification", "regression", "survival_analysis", "deep_learning"]
+  }
+}
